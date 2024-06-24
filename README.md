@@ -66,6 +66,11 @@ Este proyecto utiliza las siguientes dependencias:
 4. Ejecuta los siguientes comandos:
 - Primero, para construir el contenedor: docker-compose build
 - Segundo, para levantar el contenedor:    docker-compose up
+
+## Contacto
+- encisodiego155@gmail.com
   
 ## Créditos
 Este proyecto fue desarrollado por DIEGO ANTONIO ORE ENCISO.
+
+
