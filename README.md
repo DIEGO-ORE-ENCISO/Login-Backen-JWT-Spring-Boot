@@ -37,8 +37,9 @@ Este proyecto utiliza las siguientes dependencias:
 - Spring Security Test
 - JJWT (Java JWT)
   
-# Uso de Docker
-Para facilitar la configuración y despliegue del proyecto, se ha utilizado Docker. Sigue los siguientes pasos para ejecutar el proyecto en un contenedor Docker:
+# Ejecución con Docker (Opcional)
+- Si deseas ejecutar el proyecto utilizando Docker, sigue estos pasos:
+- Para facilitar la configuración y despliegue del proyecto, se ha utilizado Docker. Sigue los siguientes pasos para ejecutar el proyecto en un contenedor Docker:
 1. Asegúrate de tener Docker instalado en tu máquina.
 2. Crea un archivo docker-compose.yml en la raíz del proyecto con el siguiente contenido, importante llenar el environment con los datos de su BD.
 
