@@ -13,7 +13,7 @@ import org.springframework.data.web.config.EnableSpringDataWebSupport;
 
 @RestController
 @RequestMapping("/user")
-@CrossOrigin(origins = "https://diego-ore-enciso.github.io")
+@CrossOrigin(origins = "*")
 @EnableSpringDataWebSupport(pageSerializationMode = EnableSpringDataWebSupport.PageSerializationMode.VIA_DTO)
 public class UsuarioController {
 
