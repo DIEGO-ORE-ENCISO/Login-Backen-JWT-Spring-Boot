@@ -13,7 +13,7 @@ import org.springframework.data.web.config.EnableSpringDataWebSupport;
 
 @RestController
 @RequestMapping("/user")
-@CrossOrigin(origins = {"https://login-backen-jwt-spring-boot.onrender.com", "https://login-backend-jwt.netlify.app"})
+@CrossOrigin(origins = "https://diego-ore-enciso.github.io/Login-Angular-JWT/")
 @EnableSpringDataWebSupport(pageSerializationMode = EnableSpringDataWebSupport.PageSerializationMode.VIA_DTO)
 public class UsuarioController {
 

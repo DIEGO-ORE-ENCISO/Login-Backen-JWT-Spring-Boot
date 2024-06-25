@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/auth")
-@CrossOrigin(origins = {"https://login-backen-jwt-spring-boot.onrender.com", "https://login-backend-jwt.netlify.app"})
+@CrossOrigin(origins = "https://diego-ore-enciso.github.io/Login-Angular-JWT/")
 public class AuthenticationController {
 
     @Autowired
