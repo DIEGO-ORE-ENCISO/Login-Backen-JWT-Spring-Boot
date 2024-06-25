@@ -13,7 +13,8 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/auth")
-@CrossOrigin(origins = "https://diego-ore-enciso.github.io/Login-Angular-JWT/")
+@CrossOrigin(origins = "https://diego-ore-enciso.github.io")
+
 public class AuthenticationController {
 
     @Autowired
