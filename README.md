@@ -67,6 +67,9 @@ Este proyecto utiliza las siguientes dependencias:
 - Primero, para construir el contenedor: docker-compose build
 - Segundo, para levantar el contenedor:    docker-compose up
 
+## FrontEnd
+https://github.com/DIEGO-ORE-ENCISO/Login-Angular-JWT.git
+
 ## Contacto
 - encisodiego155@gmail.com
   
